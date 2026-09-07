@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Digital Download — Your Best Brew Starts Now",
+            "text": "Digital Download — Your Best Style Starts Now",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Access — Start Brewing Right Away",
+            "text": "Instant Access — Start Styling Right Away",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Delivery — Your Coffee Guide, Ready in Seconds",
+            "text": "Instant Delivery — Your Hair Guide, Ready in Seconds",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -150,7 +150,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#33221A",
+        "background_color_top": "#33221a",
         "text_color_top": "{{ settings.color_palette.background }}",
         "background_color_bottom": "",
         "text_color_bottom": "",
