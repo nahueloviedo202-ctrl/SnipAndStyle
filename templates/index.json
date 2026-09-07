@@ -2105,7 +2105,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your coffee guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
+                    "text": "<p>Get your hair guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2288,7 +2288,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>The tips were easy to follow and my coffee tasted amazing. I tried the pour-over method on my first try and it worked perfectly.</p>",
+            "text": "<p>The tips were easy to follow and my hair looked amazing. I tried the curling technique on my first try and it worked perfectly.</p>",
             "author": "Sarah M."
           },
           "blocks": {}
@@ -2302,7 +2302,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for quick brewing during the week. Simple techniques and great results. I never thought brewing coffee could be this easy.</p>",
+            "text": "<p>Perfect for quick styling during the week. Simple techniques and great results. I never thought styling my hair could be this easy.</p>",
             "author": "Ellie R."
           },
           "blocks": {}
@@ -2316,7 +2316,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>I loved the digital format. I could follow everything directly from my phone while brewing. Highly recommend to anyone who wants café-quality coffee at home.</p>",
+            "text": "<p>I loved the digital format. I could follow everything directly from my phone while styling. Highly recommend to anyone who wants salon-quality hair at home.</p>",
             "author": "Emily T."
           },
           "blocks": {}
@@ -2348,6 +2348,7 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "rating_icon": "star",
+        "rating_icon_image": "shopify://shop_images/star_77949.svg",
         "rating_icon_size": 18,
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
@@ -2506,7 +2507,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Do I need brewing experience?",
+                "heading": "Do I need styling experience?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
