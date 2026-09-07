@@ -187,7 +187,7 @@
                     "letter_spacing": "normal",
                     "case": "none",
                     "text_color": "",
-                    "sale_price_color": "#B8622F",
+                    "sale_price_color": "#b8622f",
                     "compare_price_color": "{{ settings.color_palette.color1 }}",
                     "padding-block-start": 4,
                     "padding-block-end": 0,
@@ -271,9 +271,9 @@
                   "static": true,
                   "settings": {
                     "style_class": "button-custom",
-                    "custom_button_background": "#3d2b24",
+                    "custom_button_background": "#33403A",
                     "custom_button_text": "{{ settings.color_palette.background }}",
-                    "custom_button_border": "#3d2b24"
+                    "custom_button_border": "#33403A"
                   },
                   "blocks": {}
                 },
@@ -333,7 +333,7 @@
         "limit_details_width": false,
         "gap": 40,
         "enable_sticky_add_to_cart": true,
-        "background_color": "#F2E9DD",
+        "background_color": "#f2e9dd",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
