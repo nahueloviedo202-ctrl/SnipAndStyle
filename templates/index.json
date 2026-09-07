@@ -2685,9 +2685,9 @@
               "settings": {
                 "label": "Send",
                 "style_class": "button-custom",
-                "custom_button_background": "#2b2b2b",
+                "custom_button_background": "#D97757",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#2b2b2b",
+                "custom_button_border": "#D97757",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
