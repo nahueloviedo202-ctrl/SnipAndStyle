@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@snip-and-style.com</p>",
+                    "text": "<p>Email: info@snip-and-style.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
